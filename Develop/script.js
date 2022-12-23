@@ -34,7 +34,7 @@ var choose = prompt("Choose the number of characters would you like in your pass
   
 }
 
-var numbers = prompt("Would you like to us numbers in your password?");
+var numbers = prompt("Would you like to use numbers in your password?");
   if (numbers != null) {
   
 }
@@ -53,4 +53,3 @@ var Upper = prompt("Would you like to use Capital letters in your password?");
   if (Upper != null) {
   
 }
-
