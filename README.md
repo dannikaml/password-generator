@@ -1,8 +1,8 @@
 # Password Generator Starter Code
 
-## A Semi Functioning Password Generator 
+## Password Generator 
 ***
-We call this a "Semi" Funcitoning Password Generator because you just never know what you're gonna get. Maybe it is a well coordinated, cleanly provided by the prompts and simple questions of what you would like out of a Password...or maybe it's a lot of well crafted prompts that take you nowhere. It's a day to day code refactor and we are refactoring what we can! 
+A webpage designed to help the user generate a password using Uppercase, Lowercase, Symbols, and Numbers. The passwords can be anywhere from 8-128 characters long. The user answers the questions/prompts, clicks the "generate" button and recieves a password according to the answers they typed into the prompts.
 
 
 ### Description 
