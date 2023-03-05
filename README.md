@@ -14,6 +14,17 @@ This is a refactor of a password generator. The purpose is to have functioning p
 ***
 Click the button and answer the questons to create the criteria that will be needed to generage a password for any user. 
 
-### Project Status
+### Sources
 *** 
-A work in progress...
+Youtube:
+- https://www.youtube.com/watch?v=iKo9pDKKHnc
+- https://www.youtube.com/watch?v=v2jfGo7ztm8
+
+gomakethings:
+- https://gomakethings.com/merging-two-or-more-arrays-with-vanilla-js/
+
+w3schools: 
+- https://www.w3schools.com/jsref/jsref_parseint.asp
+
+mdn:
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
